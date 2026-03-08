@@ -6,7 +6,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB-ZT7ZlifzDKAbtVk1Jk1XtnNxqqC07Ec"
+os.environ["GOOGLE_API_KEY"] = "KEY"
 
 embeddings = HuggingFaceEmbeddings(
     model_name="bkai-foundation-models/vietnamese-bi-encoder"
