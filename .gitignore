@@ -1,0 +1,12 @@
+# Bỏ qua thư mục Database
+thach_sanh_db/
+data/thach_sanh_db/
+
+# Bỏ qua các file cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua môi trường ảo (nếu bạn có dùng)
+venv/
+env/
+.env

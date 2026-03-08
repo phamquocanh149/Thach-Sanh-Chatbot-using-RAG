@@ -1,0 +1,382 @@
+[  
+  {
+    "id": "thach_sanh_01",
+    "text": "Ngày xưa, ở quận Cao Bình,  có hai vợ chồng ông lão nhà nghèo kiếm ăn bằng nghề đốn củi. Tuy tuổi đã 60 mà ông lão vẫn chưa có con nối dõi. Mặc dù đã nghèo khổ, hai vợ chồng ông lão ngày ngày vẫn hay giúp đỡ mọi người chẳng hề quản ngại vất vả nên được nhân dân xa gần đều ngợi khen. Cảm thấu tấm lòng nhân đức của hai vợ chồng ông lão, Ngọc Hoàng bèn sai thái tử xuống đầu thai làm con.",
+    "metadata": {
+      "scene": "Gia cảnh vợ chồng tiều phu", 
+      "characters": ["Vợ chồng ông lão", "Ngọc Hoàng", "Thái tử"],
+      "location": "Quận Cao Bình", 
+      "keywords": ["không con", "nhân đức", "đầu thai"] 
+    }
+  },
+  {
+    "id": "thach_sanh_02",
+    "text": "Cảm thấu tấm lòng nhân đức của hai vợ chồng ông lão, Ngọc Hoàng bèn sai thái tử xuống đầu thai làm con. Sau ba năm chín tháng, khi bà vợ sinh được một đứa con trai thì ông chồng đã qua đời. Đứa bé sinh ra trông khôi ngô tuấn tú, vừa lọt lòng mẹ đã biết đứng biết ngồi, bà liền đặt tên cho con là Thạch Sanh và tháng ngày gắng gượng rau cháo nuôi con.",
+    "metadata": {
+      "scene": "Thạch Sanh ra đời",
+      "characters": ["Ngọc Hoàng", "Thái tử", "Bà lão", "Thạch Sanh"],
+      "location": "Quận Cao Bình",
+      "keywords": ["đầu thai", "3 năm 9 tháng", "biết đứng ngồi", "mồ côi cha"]
+    }
+  },
+  {
+    "id": "thach_sanh_03",
+    "text": "Đứa bé sinh ra trông khôi ngô tuấn tú, vừa lọt lòng mẹ đã biết đứng biết ngồi, bà liền đặt tên cho con là Thạch Sanh và tháng ngày gắng gượng rau cháo nuôi con. Năm Thạch Sanh lên bảy thì bà cũng qua đời. Thạch Sanh sống lủi thủi một mình bên một gốc cây đa, với cả gia tài chỉ có một chiếc rìu và lại tiếp tục nghề của cha mẹ hàng ngày vào rừng đốn củi để nuôi thân.",
+    "metadata": {
+      "scene": "Thạch Sanh mồ côi, sống dưới gốc đa",
+      "characters": ["Bà lão", "Thạch Sanh"],
+      "location": "Gốc đa",
+      "keywords": ["lên 7 tuổi", "mẹ mất", "chiếc rìu", "đốn củi", "lủi thủi"]
+    }
+  },
+  {
+    "id": "thach_sanh_04",
+    "text": "Thạch Sanh sống lủi thủi một mình bên gốc cây đa, cả gia tài chỉ có một chiếc rìu và hàng ngày vào rừng đốn củi để nuôi thân. Năm mười ba tuổi, Sanh được Ngọc Hoàng phải một ông tiên vào loại giỏi nhất trên thiên đình xuống dạy cho các môn võ nghệ và đủ mọi phép thần thông.",
+    "metadata": {
+      "scene": "Thạch Sanh học võ nghệ và phép thuật",
+      "characters": ["Thạch Sanh", "Ngọc Hoàng", "Ông tiên"],
+      "location": "Gốc đa",
+      "keywords": ["13 tuổi", "võ nghệ", "phép thần thông", "chiếc rìu"]
+    }
+  },
+  {
+    "id": "thach_sanh_05",
+    "text": "Một hôm, có gã hàng rượu tên là Lý Thông đi qua ngồi nghỉ mát ở gốc đa. Thấy Sanh là người có sức vóc khác thường, đoán là người được việc, Thông bèn lân la gạ chuyện rồi ngỏ ý muốn kết nghĩa anh em. Vốn lòng ngay dạ thẳng, Sanh vui vẻ nhận lời và về ở với Lý Thông.",
+    "metadata": {
+      "scene": "Gặp gỡ và kết nghĩa với Lý Thông",
+      "characters": ["Thạch Sanh", "Lý Thông"],
+      "location": "Gốc đa",
+      "keywords": ["hàng rượu", "kết nghĩa anh em", "sức vóc khác thường", "lợi dụng"]
+    }
+  },
+  {
+    "id": "thach_sanh_06",
+    "text": "Vốn lòng ngay dạ thẳng, Thạch Sanh vui vẻ nhận lời và về ở với Lý Thông. Từ đó, được Thạch Sanh ra sức đỡ đần, mẹ con Lý Thông làm ăn buôn bán ngày càng giàu có. Thấm thoắt đã bảy năm qua.",
+    "metadata": {
+      "scene": "Thạch Sanh giúp nhà Lý Thông làm giàu",
+      "characters": ["Thạch Sanh", "Lý Thông", "Mẹ Lý Thông"],
+      "location": "Nhà Lý Thông",
+      "keywords": ["làm giàu", "7 năm", "đỡ đần", "ngay thẳng"]
+    }
+  },
+  {
+    "id": "thach_sanh_07",
+    "text": "Thấm thoắt đã bảy năm qua. Hồi ấy, ở trong vùng có một con Xà tinh, vốn là loài rắn đã thành tinh, chuyên phá phách, nhũng nhiễu nhân dân và bắt người ăn thịt. Quan quân triều đình nhiều lần kéo đến vây bắt nhưng không trừ nổi. Nhà vua dành bắt dân chúng lập miếu thờ và mỗi năm đem cúng cho nó một mạng người. Năm ấy không may đến lượt Lý Thông phải nộp mạng.",
+    "metadata": {
+      "scene": "Xà tinh hoành hành và lệ hiến tế",
+      "characters": ["Xà tinh", "Lý Thông", "Nhà vua", "Quan quân"],
+      "location": "Miếu thờ Xà tinh",
+      "keywords": ["ăn thịt người", "cúng mạng", "nộp mạng", "lập miếu"]
+    }
+  },
+  {
+    "id": "thach_sanh_08",
+    "text": "Năm ấy không may đến lượt Lý Thông phải nộp mạng. Nghe tin dữ, mẹ con hắn vô cùng hoảng hốt lo sợ, nhưng sau bàn mưu tính kế nghĩ ra một kế hiểm độc. Hôm đó, chờ lúc Thạch Sanh đi kiếm củi về, hắn giả mượn cớ giỗ cha, bày ra một mâm rượu thịt e hề, rồi cả hai mẹ con mời mọc chàng ân cần.",
+    "metadata": {
+      "scene": "Mưu kế của mẹ con Lý Thông",
+      "characters": ["Lý Thông", "Mẹ Lý Thông", "Thạch Sanh"],
+      "location": "Nhà Lý Thông",
+      "keywords": ["nộp mạng", "kế hiểm độc", "giả giỗ cha", "mời mọc", "lừa gạt"]
+    }
+  },
+  {
+    "id": "thach_sanh_09",
+    "text": "Lý Thông lừa bảo Thạch Sanh rằng đêm nay đến phiên hắn phải đi canh miếu thờ để kiểm tra đĩa vàng chén ngọc theo lệnh vua, nhưng ngặt vì dở cất mẻ rượu nên nhờ chàng chịu khó đi thay cho một đêm. Thạch Sanh vốn thật thà nên không nghi ngờ gì cả, thuận lời đi ngay.",
+    "metadata": {
+      "scene": "Lý Thông lừa Thạch Sanh đi thế mạng",
+      "characters": ["Lý Thông", "Thạch Sanh"],
+      "location": "Nhà Lý Thông",
+      "keywords": ["canh miếu", "kiểm tra đĩa vàng", "cất rượu", "đi thay", "lừa gạt"]
+    }
+  },
+  {
+    "id": "thach_sanh_10",
+    "text": "Sẩm tối hôm ấy, sau khi vượt qua mấy dặm rừng hoang tới miếu thờ, Thạch Sanh giở cơm nắm ra toan ăn thì Xà tinh hiện ra hình thù kì dị, nhe nanh giơ vuốt định vồ lấy chàng. Thạch Sanh liền vung rìu đánh nhau với yêu quái. Xà tinh giở ra nhiều phép biến hóa yêu ma, nhưng đều bị Thạch Sanh phá hết. Sau chàng dùng phép thần, tung lưới sắt bủa vây, lập tức con yêu quái phải hiện nguyên hình là một con trăn cực lớn, Thạch Sanh vung thần đao, chém chết, rồi cắt lấy đầu và đốt xác yêu quái.",
+    "metadata": {
+      "scene": "Cuộc chiến diệt Xà tinh",
+      "characters": ["Thạch Sanh", "Xà tinh"],
+      "location": "Miếu thờ",
+      "keywords": ["giao chiến", "lưới sắt", "nguyên hình", "chém đầu", "đốt xác"]
+    }
+  },
+  {
+    "id": "thach_sanh_11",
+    "text": "Thạch Sanh dùng phép thần, tung lưới sắt bủa vây, lập tức con yêu quái phải hiện nguyên hình là một con trăn cực lớn, chàng vung thần đao, chém chết, rồi cắt lấy đầu và đốt xác yêu quái. Xác Xà tinh vừa cháy xong bỗng biến ra một bộ cung tên bằng vàng. Sanh mừng rỡ nhặt lấy cung tên và xách đầu yêu quái chạy thẳng một hơi về nhà.",
+    "metadata": {
+      "scene": "Diệt trăn tinh và lấy cung vàng",
+      "characters": ["Thạch Sanh", "Xà tinh"],
+      "location": "Miếu thờ",
+      "keywords": ["cung tên vàng", "đốt xác", "chém đầu", "đầu trăn tinh"]
+    }
+  },
+  {
+    "id": "thach_sanh_12",
+    "text": "Sanh giết chết Xà tinh và xách đầu yêu quái chạy thẳng một hơi về nhà. Lý Thông vốn là đứa hiểm sâu thấy vậy dọa Thạch Sanh rằng Xà tinh là của vua nuôi để làm của báu nước nhà, giết nó đi thì bị tội chém đầu chẳng chơi, và khuyên Sanh nên trốn ngay đi kẻo vạ lây cả nhà, còn có chuyện gì thì mặc hắn lo liệu.",
+    "metadata": {
+      "scene": "Lý Thông lừa Thạch Sanh đi trốn",
+      "characters": ["Thạch Sanh", "Lý Thông"],
+      "location": "Nhà Lý Thông",
+      "keywords": ["lừa gạt", "dọa nạt", "trốn đi", "Xà tinh của vua", "chém đầu"]
+    }
+  },
+  {
+    "id": "thach_sanh_13",
+    "text": "Tin lời Lý Thông rằng giết Xà tinh bị tội chém đầu, Sanh vội vã đi ngay và trở về sống ở gốc đa, mặc cho năm tháng trôi qua, nghĩ mình phận hẩm mong gì gặp may. Còn Lý Thông thì vội vào kinh tâu vua là hắn đã chém được đầu yêu quái. Vua kinh ngạc, sai quân đi khiêng đầu yêu quái về, bấy giờ mới tin là thực và hết lời ngợi khen, phong cho Lý Thông làm quan đô đốc trong triều và cho hưởng lộc rất hậu.",
+    "metadata": {
+      "scene": "Lý Thông cướp công và được phong quan",
+      "characters": ["Thạch Sanh", "Lý Thông", "Vua"],
+      "location": "Kinh đô",
+      "keywords": ["cướp công", "về gốc đa", "quan đô đốc", "tâu vua", "thưởng hậu"]
+    }
+  },
+  {
+    "id": "thach_sanh_14",
+    "text": "Cũng trong thời gian Lý Thông được phong làm quan đô đốc, nhà vua làm lễ kén chồng rất long trọng cho công chúa Quỳnh Nga, con gái độc nhất của vua. Lễ kén chồng kéo dài nhiều đợt, nhưng nàng vẫn không ưng ý một người nào. Kể cả thế tử các nước chư hầu cũng không ai làm đẹp lòng nàng cả.",
+    "metadata": {
+      "scene": "Lễ kén chồng cho công chúa",
+      "characters": ["Vua", "Công chúa Quỳnh Nga", "Lý Thông", "Thế tử chư hầu"],
+      "location": "Hoàng cung",
+      "keywords": ["kén chồng", "công chúa", "không ưng ý", "Quan Đô đốc"]
+    }
+  },
+  {
+    "id": "thach_sanh_15",
+    "text": "Một hôm, công chúa dạo chơi trong vườn hoa, chẳng may bị một con Đại bàng bay ở trên cao xuống quắp bay đi. Lúc ấy, Thạch Sanh đang thẩn thơ bên gốc cây đa, thấy Đại bàng quắp một người bay qua, bèn giương cung bắn một phát trúng ngay vào cánh. Chim rơi xuống, nhưng nó vội rút ngay tên ra và lại quắp lấy người, tiếp tục bay đi.",
+    "metadata": {
+      "scene": "Đại bàng bắt công chúa",
+      "characters": ["Công chúa", "Đại bàng", "Thạch Sanh"],
+      "location": "Vườn hoa - Gốc đa",
+      "keywords": ["bắt cóc", "bắn cung", "trúng cánh", "rút tên"]
+    }
+  },
+  {
+    "id": "thach_sanh_16",
+    "text": "Thạch Sanh lần theo dấu máu của Đại bàng tìm đến một hang núi thì không thấy tăm hơi Đại bàng đâu nữa. Mất con gái quý, nhà vua xiết bao đau đớn, các quan cử ba đội quân ra sức tìm kiếm cũng không có kết quả. Nghe lời tâu của quần thần, vua bèn sai đô đốc Lý Thông trước kia có tài chém yêu tinh, đi tìm công chúa, hứa sẽ gả nàng và nhường ngôi báu cho.",
+    "metadata": {
+      "scene": "Thạch Sanh tìm hang, Vua sai Lý Thông đi cứu",
+      "characters": ["Thạch Sanh", "Đại bàng", "Vua", "Lý Thông"],
+      "location": "Hang núi / Kinh đô",
+      "keywords": ["dấu máu", "tìm công chúa", "nhường ngôi", "gả chồng"]
+    }
+  },
+  {
+    "id": "thach_sanh_17",
+    "text": "Vua sai đô đốc Lý Thông đi tìm công chúa, Thông lo lắng mãi mới tìm ra được một kế là mở hội hát ở kinh đô trong mười ngày cho người dân các nơi về xem để do la tin tức Thạch Sanh. Mãi đến ngày thứ mười hắn mới gặp được Thạch Sanh bước vào rạp xem hát. Thông lại giả nhân giả nghĩa tay bắt mặt mừng đón tiếp người em “kết nghĩa” cũ rất trịnh trọng và cho Sanh biết việc vua sai hắn đi tìm công chúa bị loài yêu quái bắt.",
+    "metadata": {
+      "scene": "Lý Thông mở hội hát tìm Thạch Sanh",
+      "characters": ["Lý Thông", "Thạch Sanh"],
+      "location": "Kinh đô",
+      "keywords": ["dò la", "giả nhân nghĩa", "tìm công chúa"]
+    }
+  },
+  {
+    "id": "thach_sanh_18",
+    "text": "Thạch Sanh thật thà cho Lý Thông biết tung tích của yêu quái chính là chim đại bàng đi bắt người ở hang núi. Thế là Thông dùng lời đường mật, nhờ Sanh dẫn đi tìm công chúa. Thạch Sanh nhận lời, đến chỗ của Đại bàng, Sanh dùng dây làm thang xuống hang sâu và dặn Thông hễ thấy đầu dây động đậy thì kéo lên.",
+    "metadata": {
+      "scene": "Thạch Sanh xuống hang cứu công chúa",
+      "characters": ["Thạch Sanh", "Lý Thông", "Đại bàng"],
+      "location": "Hang núi",
+      "keywords": ["Đại bàng", "dẫn đường", "xuống hang", "dây thừng", "ám hiệu"]
+    }
+  },
+  {
+    "id": "thach_sanh_19",
+    "text": "Đến chỗ của Đại bàng, Sanh dùng dây làm thang xuống hang sâu và dặn Thông hễ thấy đầu dây động đậy thì kéo lên. Vừa xuống tới hang, đang lúng túng chưa biết cần đi về hướng nào, Sanh bỗng gặp ngay công chúa Quỳnh Nga cũng vừa đi ra. Cảm kích ơn nghĩa Thạch Sanh không quản hiểm nguy đã đến cứu mình, công chúa liền ngỏ ý xin kết nghĩa trăm năm.",
+    "metadata": {
+      "scene": "Thạch Sanh gặp công chúa dưới hang",
+      "characters": ["Thạch Sanh", "Công chúa Quỳnh Nga", "Lý Thông"],
+      "location": "Hang đại bàng",
+      "keywords": ["xuống hang", "kết nghĩa trăm năm", "cảm kích", "cứu người"]
+    }
+  },
+  {
+    "id": "thach_sanh_20",
+    "text": "Cảm kích ơn nghĩa Thạch Sanh không quản hiểm nguy đã đến cứu mình, công chúa liền ngỏ ý xin kết nghĩa trăm năm. Sanh từ chối, cho nàng biết đây là việc của triều đình mà chàng lại muốn giữ trọn tình nghĩa anh em với Lý Thông. Nhưng công chúa vẫn quyết một lòng và nàng coi như đã “kết duyên” lành với chàng từ đấy.",
+    "metadata": {
+      "scene": "Công chúa ngỏ ý kết duyên",
+      "characters": ["Thạch Sanh", "Công chúa Quỳnh Nga", "Lý Thông"],
+      "location": "Hang đại bàng",
+      "keywords": ["kết nghĩa trăm năm", "từ chối", "tình nghĩa anh em", "kết duyên"]
+    }
+  },
+  {
+    "id": "thach_sanh_21",
+    "text": "Từ hôm bị trúng tên, Đại bàng bị thương nằm li bì một chỗ. Sanh đưa thuốc mê bảo công chúa dỗ Đại bàng uống, xong đem nàng buộc vào dây cho quân kéo lên. Lập tức Lý Thông sai quan quân đưa ngay công chúa về triều để hắn ở lại đánh yêu quái. Kì thực quân vừa đi khỏi, hắn vội vã lăn đá lấp kín cửa hang để hại Thạch Sanh. Còn công chúa Quỳnh Nga mỏi mắt trông vời về phía sau không thấy chàng đâu cả, nàng bàng hoàng uất ức, mắc bệnh câm ngay từ bữa đó.",
+    "metadata": {
+      "scene": "Cứu công chúa và bị Lý Thông lấp cửa hang",
+      "characters": ["Thạch Sanh", "Công chúa Quỳnh Nga", "Lý Thông", "Đại bàng"],
+      "location": "Hang đại bàng",
+      "keywords": ["thuốc mê", "lấp cửa hang", "hãm hại", "bị câm", "cứu công chúa"]
+    }
+  },
+  {
+    "id": "thach_sanh_22",
+    "text": "Về phần Thạch Sanh, sau khi cứu công chúa ra khỏi hang thì bị Lý Thông khuân đá lấp kín cửa hang không cho chàng ra nữa. Chàng tức giận giương cung bắn phá lâu đài của Đại Bàng. Giữa lúc đó, con yêu quái chợt tỉnh cơn mê. Thấy có người lạ đột nhập đang phá phách nhà cửa và cướp mất vợ hắn, hắn bừng bừng nổi giận xông vào đánh nhau kịch liệt với Thạch Sanh.",
+    "metadata": {
+      "scene": "Thạch Sanh bị nhốt và quyết chiến Đại bàng",
+      "characters": ["Thạch Sanh", "Lý Thông", "Đại bàng "],
+      "location": "Hang đại bàng",
+      "keywords": ["lấp cửa hang", "bắn phá", "tỉnh thuốc mê", "giao chiến", "bị nhốt"]
+    }
+  },
+  {
+    "id": "thach_sanh_23",
+    "text": "Thạch Sanh vs Đại Bàng giao chiến với nhau đến vài trăm hiệp mà vẫn không phân thắng bại. Đại Bàng trổ hết mọi phép yêu ma ghê gớm ra nhưng đều bị Thạch Sanh dùng phép thần thông phá hết. Cuối cùng hết phép, Đại bàng biến thành con chim nhỏ như con chim khách, toan trốn đi, nhưng Thạch Sanh đã kịp thời hóa phép phủ vây lưới sắt và giương cung bắn chết.",
+    "metadata": {
+      "scene": "Tiêu diệt Đại bàng tinh",
+      "characters": ["Thạch Sanh", "Đại bàng"],
+      "location": "Hang đại bàng",
+      "keywords": ["giao chiến", "phép thuật", "lưới sắt", "biến hình", "bắn chết"]
+    }
+  },
+  {
+    "id": "thach_sanh_24",
+    "text": "Đại bàng biến thành con chim nhỏ như con chim khách, toan trốn đi, nhưng Thạch Sanh đã kịp thời hóa phép phủ vây lưới sắt và giương cung bắn chết. Sau đó, Thạch Sanh vung thần đao phá tan hang động của Đại , nhân đó cứu được cả con vua Thủy tề bị Đại bàng bắt nhốt trong cũi sắt đã một năm ròng. Thái tử cảm tạ ơn sâu của Thạch Sanh và mời chàng xuống thủy cung chơi.",
+    "metadata": {
+      "scene": "Diệt Đại bàng và cứu Thái tử Thủy tề",
+      "characters": ["Thạch Sanh", "Đại bàng", "Thái tử Thủy tề"],
+      "location": "Hang đại bàng",
+      "keywords": ["bắn chết", "cứu thái tử", "cũi sắt", "xuống Thủy cung"]
+    }
+  },
+  {
+    "id": "thach_sanh_25",
+    "text": "Thạch Sanh cứu thái tử con vua Thủy Tề ra và được mời về thủy cung để vua cha được đền ơn. Vua Thủy Tề mừng lắm, tặng Thạch Sanh vô số vàng bạc châu báu, nhưng chàng đều từ chối không nhận, chỉ nhận lấy một cây đàn. Xong rồi từ giã vua và thái tử, lên trần gian, về chốn cũ ở gốc đa.",
+    "metadata": {
+      "scene": "Xuống Thủy cung nhận đàn thần",
+      "characters": ["Thạch Sanh", "Vua Thủy Tề", "Thái tử"],
+      "location": "Thủy cung / Gốc đa",
+      "keywords": ["cứu thái tử", "đền ơn", "cây đàn", "từ chối vàng bạc", "về trần gian"]
+    }
+  },
+  {
+    "id": "thach_sanh_26",
+    "text": "Công chúa Quỳnh Nga từ lúc thoát nạn yêu quái lại bị bệnh câm. Vua cha vô cùng thương xót, buồn bã, đành ra lệnh hoãn việc hôn nhân của nàng với Lý Thông để chữa cho nàng khỏi bệnh đã. Vua thì lo lắng thuốc thang và khấn vái Trời Phật; Lý Thông thì lập đàn mời pháp sư, phù thủy cúng lễ linh đình, hàng tháng ròng mà Quỳnh Nga vẫn chẳng nói chẳng rằng, miệng hoa âm ỉ chẳng hằng nói chi”.",
+    "metadata": {
+      "scene": "Công chúa bị câm và hoãn hôn sự",
+      "characters": ["Công chúa Quỳnh Nga", "Vua", "Lý Thông"],
+      "location": "Hoàng cung",
+      "keywords": ["bệnh câm", "hoãn hôn nhân", "chữa bệnh", "pháp sư", "không nói"]
+    }
+  },
+  {
+    "id": "thach_sanh_27",
+    "text": "Trăn tinh và Đại Bàng sau khi bị tiêu diệt, hồn chúng không ai cúng lễ, đành sống bơ vơ, chui rúc bụi hồ, rồi chuyên đi ăn trộm, bắt gà, bắt chó quấy nhiễu, tàn hại người dân để kiếm ăn. Một đêm, chúng tình cờ gặp nhau và kể lể cho nhau nghe về số phận của mình, rồi bàn kế báo thù Thạch Sanh.",
+    "metadata": {
+      "scene": "Hồn ma Trăn tinh và Đại bàng gặp nhau báo thù",
+      "characters": ["Trăn tinh", "Đại bàng", "Thạch Sanh"],
+      "location": "Trần gian / Bụi hồ",
+      "keywords": ["hồn ma", "báo thù", "ăn trộm", "quấy nhiễu", "bàn kế"]
+    }
+  },
+  {
+    "id": "thach_sanh_28",
+    "text": "Hồn Trăn tinh và Đại bàng lẻn vào kho vua ăn trộm vàng bạc rồi mang đến gốc đa vứt vào chỗ Thạch Sanh để vu oan. Thạch Sanh bị bắt giải về trình Lý Thông. Lý Thông nhân cơ hội này tống giam chàng vào ngục tối, rắp tâm đợi ba ngày sau sẽ tự ý xử tử để bịt đầu mối.",
+    "metadata": {
+      "scene": "Hồn ma báo thù và Thạch Sanh bị oan",
+      "characters": ["Thạch Sanh", "Lý Thông", "Hồn Trăn tinh", "Hồn Đại bàng"],
+      "location": "Kho vua / Gốc đa / Ngục tối",
+      "keywords": ["ăn trộm", "vu oan", "bị bắt", "tống giam", "xử tử", "bịt đầu mối"]
+    }
+  },
+  {
+    "id": "thach_sanh_29",
+    "text": "Ngồi trong ngục, Thạch Sanh buồn tình đem đàn ra gảy. Tiếng đàn thần bỗng nỉ non, thánh thót như oán, như than, vạch tội Lý Thông ăn ở bất nhân phụ nghĩa và trách nàng công chúa không giữ lời ước hẹn: “Đàn kêu tích tịch tình tang / Ai mang công chúa dưới hang trở về…”",
+    "metadata": {
+      "scene": "Tiếng đàn oan khuất trong ngục tối",
+      "characters": ["Thạch Sanh", "Lý Thông", "Công chúa Quỳnh Nga"],
+      "location": "Ngục tối",
+      "keywords": ["tiếng đàn", "gảy đàn", "oan ức", "vạch tội", "tích tịch tình tang", "bất nhân"]
+    }
+  },
+  {
+    "id": "thach_sanh_30",
+    "text": "Ngồi trong ngục, Thạch Sanh buồn tình đem đàn ra gảy, tiếng đàn văng vẳng bay thấu vào tới cung vua. Quỳnh Nga đang ngồi ủ rũ, thoắt nghe thấy tiếng đàn ai oán bỗng khỏi câm liền. Nàng cười nói vui vẻ, xin vua cha cho gọi người gảy đàn vào cung gặp mặt, rồi bày tỏ sự tình trong tiếng đàn cho vua biết. Nhờ đó Thạch Sanh được giải oan.",
+    "metadata": {
+      "scene": "Tiếng đàn chữa bệnh và giải oan",
+      "characters": ["Thạch Sanh", "Công chúa Quỳnh Nga", "Vua"],
+      "location": "Hoàng cung / Ngục tối",
+      "keywords": ["tiếng đàn", "khỏi câm", "giải oan", "gặp mặt", "kể rõ sự tình"]
+    }
+  },
+  {
+    "id": "thach_sanh_31",
+    "text": "Nhờ công chúa nghe được tiếng đàn, Thạch Sanh được giải oan. Nhà vua bèn mở yến tiệc đãi chàng, phong cho chàng hai chức quận công do hai lần có công trạng lớn và cho kết duyên với công chúa Quỳnh Nga. Còn về phần Lý Thông, vua giao cho Thạch Sanh tùy ý xử tội.",
+    "metadata": {
+      "scene": "Thạch Sanh được giải oan và phong chức",
+      "characters": ["Thạch Sanh", "Vua", "Công chúa Quỳnh Nga", "Lý Thông"],
+      "location": "Hoàng cung",
+      "keywords": ["giải oan", "Quận công", "kết duyên", "xử tội", "thưởng phạt"]
+    }
+  },
+  {
+    "id": "thach_sanh_32",
+    "text": "Vua giao cho Thạch Sanh tùy ý xử tội Lý Thông. Sanh xin vua tha tội chết cho hắn để hắn trở về quê quán làm ăn. Nhưng hai mẹ con hắn về đến giữa đường thì bị Ngọc Hoàng sai Thần Sét đánh chết đúng như lời hắn đã thề nguyền khi kết nghĩa anh em với Thạch Sanh xưa kia. Do tội bạo ngược, ăn ở hai lòng của hắn, Ngọc Hoàng lại bắt Lý Thông hóa làm kiếp bọ hung, đời đời sống trong nhơ bẩn.",
+    "metadata": {
+      "scene": "Cái kết của mẹ con Lý Thông",
+      "characters": ["Thạch Sanh", "Lý Thông", "Mẹ Lý Thông", "Ngọc Hoàng", "Thần Sét"],
+      "location": "Hoàng cung - Giữa đường",
+      "keywords": ["tha tội", "sét đánh", "hóa kiếp", "bọ hung", "quả báo", "thề nguyền"]
+    }
+  },
+  {
+    "id": "thach_sanh_33",
+    "text": "Được tin công chúa Quỳnh Nga kết duyên với Thạch Sanh là một anh chàng khố rách nghèo hèn, thế tử các nước chư hầu trước kia từng bị công chúa cự tuyệt bèn nổi giận, rủ nhau hợp binh kéo đến báo thù. Khí thế quân mười tám nước chư hầu vô cùng mạnh mẽ, đi tới đâu làm cho núi lở, sông cạn tới đó, phá tan hoang luôn năm cửa ải. Quân triều đình đi tiếp ứng tới đâu bị đánh tan tác tới đấy.",
+    "metadata": {
+      "scene": "18 nước chư hầu xâm lược",
+      "characters": ["Thế tử chư hầu", "Công chúa Quỳnh Nga", "Thạch Sanh", "Quân triều đình"],
+      "location": "Biên ải",
+      "keywords": ["18 nước chư hầu", "báo thù", "hợp binh", "cự tuyệt", "kết duyên", "xâm lược"]
+    }
+  },
+  {
+    "id": "thach_sanh_34",
+    "text": "Quân mười tám nước chư hầu vô cùng mạnh mẽ, quân triều đình bị đánh tan tác. Nhà vua hoảng sợ bèn vời Thạch Sanh vào nhờ chàng đem binh đi đánh giặc. Thạch Sanh tâu với nhà vua cứ để cho quân địch kéo đến bao vây kinh thành, rồi chàng sẽ ra tay.",
+    "metadata": {
+      "scene": "Thạch Sanh nhận lệnh lui giặc",
+      "characters": ["Thạch Sanh", "Vua", "Quân 18 nước chư hầu"],
+      "location": "Hoàng cung",
+      "keywords": ["hoảng sợ", "bao vây", "đánh giặc", "xin ra tay", "tự tin"]
+    }
+  },
+  {
+    "id": "thach_sanh_35",
+    "text": "Nhà vua vô cùng hoảng sợ nhờ Thạch Sanh đem binh đi đánh giặc. Chờ cho giặc bổ vây bốn mặt thành trùng trùng điệp điệp và không ngớt lời reo hò khiêu khích, Thạch Sanh mới đem đàn thần ra gảy. Đàn bỗng kêu lên “tích tịch tình tang”, vạch ra điều hơn lẽ thiệt, phải trái phân minh cho hàng vạn quân địch nghe: “Đàn kêu nhân nghĩa thủy chung / Thánh tha thánh thót muôn lòng xôn xao…”",
+    "metadata": {
+      "scene": "Tiếng đàn lui giặc 18 nước chư hầu",
+      "characters": ["Thạch Sanh", "Quân 18 nước chư hầu"],
+      "location": "Kinh thành",
+      "keywords": ["đàn thần", "tích tịch tình tang", "phân minh", "nhân nghĩa", "lui giặc", "bao vây"]
+    }
+  },
+  {
+    "id": "thach_sanh_36",
+    "text": "Thạch Sanh mới đem đàn thần ra gảy. Tiếng đàn khi cứng rắn đanh thép, lúc lại mềm rẻo khuyên lơn khiến cho quân tướng mười tám nước dần dần phải thoái chí, quy hàng một loạt. Chúng xin cấp lương ăn để về nước. Thạch Sanh ra lệnh cấp cho chúng mười tám hộc lương. Chúng chê ít, Thạch Sanh sai đem chiếc niêu của chàng ra thổi cơm cho chúng ăn. Quân mười tám nước trông thấy niêu cơm đều hết thảy ngao ngán.",
+    "metadata": {
+      "scene": "Đàn thần thu phục giặc và sự xuất hiện của niêu cơm",
+      "characters": ["Thạch Sanh", "Quân 18 nước chư hầu"],
+      "location": "Kinh thành",
+      "keywords": ["quy hàng", "thoái chí", "tiếng đàn", "cấp lương ăn", "niêu cơm thần", "ngao ngán"]
+    }
+  },
+  {
+    "id": "thach_sanh_37",
+    "text": "Thạch Sanh sai đem chiếc niêu của chàng ra thổi cơm cho chúng ăn. Quân mười tám nước trông thấy niêu cơm thì chê ít. Thạch Sanh đố chúng ăn hết sẽ trọng thưởng. Hàng vạn quân lính ào ào ăn mãi mà niêu cơm cứ vơi rồi lại đầy, ăn không sao hết được. Thế là một lần nữa chúng lại nhất loạt phải quy phục chàng.",
+    "metadata": {
+      "scene": "Thu phục quân chư hầu bằng niêu cơm thần",
+      "characters": ["Thạch Sanh", "Quân 18 nước chư hầu"],
+      "location": "Kinh thành",
+      "keywords": ["niêu cơm thần", "vơi rồi lại đầy", "chê ít", "ăn không hết", "quy phục", "khoan dung"]
+    }
+  },
+  {
+    "id": "thach_sanh_38",
+    "text": "Sau khi chiến thắng quân mười tám nước chư hầu, Thạch Sanh được nhà vua làm lễ nhường ngôi cho chàng, để chàng đem tài ra trị vì đất nước. Quỳnh Nga công chúa cũng được nhà vua ban chiếu phong cho làm hoàng hậu. Hai năm sau, hoàng hậu Quỳnh Nga sinh được một trai, một gái, thế là đất nước thịnh trị, gia đình hòa vui…",
+    "metadata": {
+      "scene": "Thạch Sanh lên ngôi vua và kết cục viên mãn",
+      "characters": ["Thạch Sanh", "Vua", "Công chúa Quỳnh Nga"],
+      "location": "Hoàng cung",
+      "keywords": ["nhường ngôi", "trị vì", "hoàng hậu", "thịnh trị", "có hậu", "kết cục viên mãn"]
+    }
+  }
+]
